@@ -1,0 +1,6 @@
+{
+    "looker.instanceURL": "https://experiment-user-agent-o.dev.looker.com",
+    "looker.oauthClientId": "antigravity-oauth",
+    "looker.projectId": "git-sync-looker",
+    "looker.skillsInstallPath": ".agents/skills"
+}
